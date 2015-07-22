@@ -1,5 +1,5 @@
 # UncapitalizeExtensions
-A bash script to uncapitalize all extensions recursively
+UncapitalizeExtensions is a bash script that will uncapitalize all extensions of files starting at a specified directory and recursively moving downward.
 
 Run the script with
 
